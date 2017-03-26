@@ -3,7 +3,7 @@ Git is free software distributed under GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
 
 #from flask import Flask
 #app = Flask(__name__)
